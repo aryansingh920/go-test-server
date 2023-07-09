@@ -1,0 +1,14 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build & test files
+*.test
+*.prof
+
+# Go modules
+vendor/
+go.sum
